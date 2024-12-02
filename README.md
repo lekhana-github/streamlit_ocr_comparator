@@ -1,0 +1,2 @@
+# streamlit_ocr_comparator
+streamlit_ocr_comparator
